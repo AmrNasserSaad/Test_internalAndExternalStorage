@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test_internalAndExternalStorage</string>
+    <string name="save">Save</string>
+    <string name="save_files">Save Files</string>
+</resources>
